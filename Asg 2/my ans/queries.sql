@@ -1,5 +1,4 @@
 connect to SE3DB3;
--- set schema ZHUC17;
 
 /* q1 */
 SELECT DISTINCT FirsTNAME, LasTName, DateOfBirth FROM Order
