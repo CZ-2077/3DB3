@@ -3,7 +3,7 @@ connect to SE3DB3
    Database Connection Information
 
  Database server        = DB2/LINUXX8664 10.5.3
- SQL authorization ID   = ZHUC17
+ SQL authorization ID   = 
  Local database alias   = SE3DB3
 
 
